@@ -1,0 +1,18 @@
+server:
+  port: 10086
+
+wechat:
+  configs:
+    - appId: Your Wechat appId
+      secret: Your Wechat secret
+      token: Your Wechat token
+      aesKey: Your Wechat aesKey
+
+openai:
+  apiKey: Your openAI apiKey
+  apiHost: api.openai.com
+azure:
+  cognitive:
+    subscriptionKey: Your Azure cognitive subscriptionKey
+    region: Your Azure cognitive region
+
